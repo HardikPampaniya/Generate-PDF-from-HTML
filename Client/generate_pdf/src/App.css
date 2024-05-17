@@ -1,0 +1,22 @@
+.button{
+  background-color: black;
+}
+
+.card{
+  border-radius: 55%;
+  text-align: center;
+  box-shadow: inset;
+}
+
+.heading{
+  font-size:larger;
+  font-weight: 800;
+  margin-top: 1%;
+}
+
+.btn{
+  background-color: wheat;
+  border-radius: 5%;
+  border-style :outset;
+  box-shadow: inset;
+}
